@@ -1,0 +1,1 @@
+g++ popup_clicker.cpp -municode -Os -s -o popup_clicker.exe
